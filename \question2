@@ -1,0 +1,112 @@
+Travel Booking Platform Using Agile
+1. Abstract (300–400 Words)
+
+The Travel Booking Platform project aims to develop an online system that allows users to search, compare, and book travel-related services such as flights, hotels, and tour packages from a single platform. Traditional travel booking methods are time-consuming and depend heavily on travel agents, which often results in higher costs and limited options for customers. This project uses Agile methodology to ensure flexibility, faster development, and continuous improvement based on user feedback.
+
+Using Agile, the project is divided into multiple sprints, each delivering a working module such as user registration, destination search, booking management, and payment processing. Continuous interaction with stakeholders helps in refining requirements and improving usability. The system ensures real-time availability of services, secure transactions, and accurate booking information.
+
+The Travel Booking Platform provides features like user login, search filters, booking confirmation, payment gateway integration, and booking history. It reduces manual work, minimizes errors, and improves customer satisfaction. Agile practices such as sprint reviews and retrospectives help the development team enhance performance and product quality. The system is scalable and can be enhanced further with mobile app integration and AI-based recommendations. This project demonstrates how Agile methodology supports rapid development of a reliable, user-centric travel solution.
+
+2. Introduction
+2.1 Introduction
+
+The Travel Booking Platform is an online application designed to simplify the process of booking travel services.
+
+2.2 Problem Identification
+
+Manual booking through agents is slow, costly, and error-prone.
+
+2.3 Need of the Project
+
+To provide a fast, transparent, and user-friendly online booking system.
+
+2.4 Project Scheduling
+
+Developed using Agile with 2-week sprints.
+
+2.5 Objectives
+
+Online booking of travel services
+
+Secure payment handling
+
+Booking history management
+
+3. Software Requirement Specification
+3.1 Purpose
+
+To define requirements of the travel booking system.
+
+3.2 Scope
+
+Flights, hotels, tour packages booking.
+
+3.3 Hardware/Software Requirement
+
+Hardware: PC, 4GB RAM Software: Windows, Java, MySQL
+
+3.4 Tools
+
+NetBeans/Eclipse, MySQL, Git
+
+3.5 Software Process Model
+
+Agile Scrum Model
+
+4. System Design
+4.1 Data Dictionary
+
+UserID, BookingID, Destination, PaymentStatus
+
+4.2 ER Diagram
+
+User–Booking–Payment
+
+4.3 DFD
+
+User → Booking System → Database
+
+4.4 Diagrams
+
+Use Case, Class Diagram
+
+5. Implementation
+5.1 Program Code
+
+Implemented using Java and MySQL
+
+5.2 Output Screens
+
+Login, Search, Booking Confirmation
+
+6. Testing
+6.1 Test Data
+
+Valid/Invalid bookings
+
+6.2 Test Result
+
+All modules tested successfully
+
+7. User Manual
+7.1 Guidelines
+
+Register → Search → Book → Pay
+
+7.2 Screen Layouts
+
+Simple and interactive UI
+
+8. Applications and Limitations
+
+Applications: Tourism industry Limitations: Internet dependency
+
+9. Conclusion and Future Enhancement
+
+Efficient travel booking system. Future enhancement includes mobile app and AI suggestions.
+
+10. Bibliography
+
+Pressman, Software Engineering
+
+Agile Manifesto
