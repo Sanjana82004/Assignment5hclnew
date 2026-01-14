@@ -1,0 +1,95 @@
+Online E-Commerce Website Using Agile
+1. Abstract (300–400 Words)
+
+The Online E-Commerce Website project is designed to facilitate online buying and selling of products through a secure and user-friendly platform. Traditional shopping methods limit customer choice and require physical presence. This project applies Agile methodology to develop an adaptable and customer-focused e-commerce solution.
+
+Agile development allows the project to be built incrementally, starting with core features such as product listing and user registration, followed by advanced features like shopping cart, online payment, and order tracking. Continuous customer feedback helps improve usability and performance. The system ensures secure transactions, efficient inventory management, and faster order processing.
+
+The e-commerce website provides benefits to both customers and sellers by offering convenience, wider reach, and real-time updates. Agile practices ensure timely delivery and quality enhancement. The system is scalable and suitable for small and large businesses. Future enhancements include mobile app support and AI-based product recommendations.
+
+2. Introduction
+2.1 Introduction
+
+E-commerce enables online commercial transactions.
+
+2.2 Problem Identification
+
+Limited reach of traditional retail stores.
+
+2.3 Need of the Project
+
+To provide a 24×7 online shopping platform.
+
+2.4 Project Scheduling
+
+Agile sprints of 2 weeks.
+
+2.5 Objectives
+
+Online product sales
+
+Secure payment
+
+Order tracking
+
+3. Software Requirement Specification
+3.1 Purpose
+
+To define requirements of e-commerce system.
+
+3.2 Scope
+
+Product management, orders, payments.
+
+3.3 Hardware/Software Requirement
+
+Hardware: PC, 4GB RAM Software: Java, MySQL, Windows
+
+3.4 Tools
+
+Eclipse, MySQL
+
+3.5 Software Process Model
+
+Agile Model
+
+4. System Design
+4.1 Data Dictionary
+
+ProductID, OrderID, UserID
+
+4.2 ER Diagram
+
+User–Order–Product
+
+4.3 DFD
+
+User → E-Commerce System → Database
+
+4.4 Diagrams
+
+Use Case, Class Diagram
+
+5. Implementation
+
+Java and MySQL based implementation
+
+6. Testing
+
+System tested with multiple users
+
+7. User Manual
+
+Login → Browse → Add to Cart → Pay
+
+8. Applications and Limitations
+
+Applications: Retail business Limitations: Payment gateway dependency
+
+9. Conclusion and Future Enhancement
+
+Reliable e-commerce solution. Future scope includes AI recommendations.
+
+10. Bibliography
+
+Pressman, Agile Guide
