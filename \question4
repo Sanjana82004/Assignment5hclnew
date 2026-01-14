@@ -1,0 +1,168 @@
+Automated Banking System Using Agile
+1. Abstract (300–400 Words)
+
+The Automated Banking System project aims to provide customers with secure, reliable, and efficient online banking services. Traditional banking systems involve manual processes that consume time, require physical presence, and often lead to delays and human errors. With the growth of digital technology, there is a strong need for an automated system that allows customers to perform banking operations anytime and anywhere. This project is developed using the Agile methodology, which ensures flexibility, faster development, and continuous improvement based on stakeholder feedback.
+
+The Automated Banking System includes features such as user registration, secure login, account management, balance inquiry, fund transfer, transaction history, and report generation. Agile development divides the project into small iterations called sprints. Each sprint delivers a functional module, such as authentication, account details, or transaction processing. Continuous testing and regular feedback help improve system quality and security.
+
+The system reduces the workload of bank staff and improves customer satisfaction by providing 24×7 access to banking services. It ensures data accuracy, transparency, and security through proper authentication and authorization mechanisms. Agile practices such as sprint planning, daily meetings, sprint review, and retrospective help the development team identify risks early and enhance system performance. The Automated Banking System is scalable and can be enhanced further with mobile banking, biometric authentication, and integration with digital payment platforms. This project demonstrates the effective use of Agile methodology in developing a secure and customer-centric banking solution.
+
+2. Introduction
+2.1 Introduction
+
+An Automated Banking System is a software application that enables customers to perform banking activities electronically without visiting the bank branch.
+
+2.2 Problem Identification
+
+Manual banking operations cause long queues, delays in transactions, and dependency on bank working hours.
+
+2.3 Need of the Project
+
+There is a need to provide fast, secure, and user-friendly banking services through digital platforms.
+
+2.4 Project Scheduling
+
+The project is developed using Agile methodology with multiple sprints of 2 weeks duration.
+
+2.5 Objectives
+
+To provide online banking services
+
+To ensure secure fund transfer
+
+To maintain accurate transaction records
+
+To reduce manual workload
+
+3. Software Requirement Specification (SRS)
+3.1 Purpose
+
+The purpose of this document is to specify the functional and non-functional requirements of the Automated Banking System.
+
+3.2 Scope
+
+The system supports account management, balance inquiry, fund transfer, transaction history, and report generation.
+
+3.3 Hardware Requirement / Software Requirement
+
+Hardware Requirements:
+
+Computer system
+
+Minimum 4 GB RAM
+
+Internet connection
+
+Software Requirements:
+
+Operating System: Windows 10 or above
+
+Programming Language: Java
+
+Database: MySQL
+
+Web Server: Apache Tomcat
+
+3.4 Tools
+
+Eclipse / NetBeans IDE
+
+MySQL Workbench
+
+Git for version control
+
+3.5 Software Process Model
+
+Agile Scrum Model
+
+4. System Design
+4.1 Data Dictionary
+
+AccountID: Unique account number
+
+CustomerName: Name of account holder
+
+Balance: Available balance
+
+TransactionID: Unique transaction number
+
+TransactionDate: Date of transaction
+
+4.2 ER Diagram
+
+Entities include Customer, Account, Transaction, and Bank. Relationships exist between Customer–Account and Account–Transaction.
+
+4.3 Data Flow Diagram (DFD)
+
+Customer → Banking System → Database → Customer
+
+4.4 Diagrams
+
+Use Case Diagram, Class Diagram, and Activity Diagram are used to represent system behavior.
+
+5. Implementation
+5.1 Program Code
+
+The system is implemented using Java for backend logic and MySQL for database management.
+
+5.2 Output Screens
+
+Login Screen
+
+Account Dashboard
+
+Fund Transfer Screen
+
+Transaction History Screen
+
+6. Testing
+6.1 Test Data
+
+Valid and invalid login credentials
+
+Valid and invalid account numbers
+
+6.2 Test Result
+
+All test cases were executed successfully and the system performed as expected.
+
+7. User Manual
+7.1 How to Use Project Guidelines
+
+Login using valid credentials
+
+Select required banking service
+
+Enter necessary details
+
+Submit and confirm transaction
+
+7.2 Screen Layouts and Description
+
+The system provides a simple and user-friendly interface with clearly labeled options.
+
+8. Project Applications and Limitations
+
+Applications:
+
+Banking institutions
+
+Financial services
+
+Limitations:
+
+Requires internet connectivity
+
+Dependent on system security
+
+9. Conclusion and Future Enhancement 
+The Automated Banking System improves efficiency and customer convenience by providing secure online banking services. In the future, the system can be enhanced with mobile banking, biometric authentication, AI-based fraud detection, and integration with UPI and digital wallets.
+
+10. Bibliography & References
+
+Pressman, Software Engineering: A Practitioner’s Approach
+
+Agile Manifesto
+
+Banking Software System References
+
