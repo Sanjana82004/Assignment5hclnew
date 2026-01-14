@@ -1,0 +1,63 @@
+Healthcare Management System Using Agile
+1. Abstract (300–400 Words)
+
+The Healthcare Management System project aims to digitize healthcare services such as patient record management, appointment scheduling, billing, and report generation. Traditional healthcare systems rely heavily on paper-based records, which are difficult to manage and prone to errors. This project adopts Agile methodology to develop a flexible and reliable healthcare solution.
+
+Using Agile, the system is developed in iterative sprints, allowing continuous improvement and easy adaptation to changing hospital requirements. Core modules such as patient registration and appointment management are developed first, followed by billing and reporting. Regular feedback from users ensures accuracy and usability.
+
+The system improves efficiency, reduces paperwork, and ensures secure handling of sensitive medical data. Agile practices help maintain quality and reliability. Future enhancements include telemedicine and mobile app integration.
+
+2. Introduction
+2.1 Introduction
+
+Healthcare systems manage medical information digitally.
+
+2.2 Problem Identification
+
+Paper records cause inefficiency.
+
+2.3 Need of the Project
+
+To improve healthcare service efficiency.
+
+2.4 Project Scheduling
+
+Agile sprint-based approach.
+
+2.5 Objectives
+
+Patient data management
+
+Appointment scheduling
+
+3. Software Requirement Specification
+
+Java, MySQL, Windows
+
+4. System Design
+
+Patient–Doctor–Appointment
+
+5. Implementation
+
+Java based system
+
+6. Testing
+
+Functional testing
+
+7. User Manual
+
+Register → Book appointment → View records
+
+8. Applications and Limitations
+
+Applications: Hospitals Limitations: Training required
+
+9. Conclusion and Future Enhancement
+
+Improved healthcare management. Future scope: Telemedicine.
+
+10. Bibliography
+
+Healthcare IT References
